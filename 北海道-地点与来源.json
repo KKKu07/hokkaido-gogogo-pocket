@@ -1,0 +1,1196 @@
+{
+  "places": [
+    {
+      "id": "p01",
+      "name": "Picante 本店",
+      "city": "札幌",
+      "category": "美食",
+      "type": "汤咖喱",
+      "query": "Picante 3 Chome-2-23 Kita 13 Jonishi Sapporo Hokkaido Japan",
+      "why": "推荐浓汤“38亿年的风”、炸鸡腿或羊肉。笔记称只收现金，晚间鸡腿可能售罄。",
+      "caution": "排队加上菜可能超过1小时；评论认为不同分店体验有差异。",
+      "sources": [
+        "6ac5a3640000000014000609"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p02",
+      "name": "回転寿しトリトン 旭神店",
+      "city": "旭川",
+      "category": "美食",
+      "type": "回转寿司",
+      "query": "回転寿しトリトン 旭神店 旭川 北海道 日本",
+      "why": "两篇笔记推荐旭川吃Toriton；具体推荐鳗鱼、扇贝、三文鱼等，可选减量米饭。",
+      "caution": "仍可能排队；从旭川站前往需要另查公交或打车。",
+      "sources": [
+        "6acc963c0000000015004539",
+        "6aa8bb2e000000002802db10"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p03",
+      "name": "宮越屋珈琲 THE CAFE",
+      "city": "札幌",
+      "category": "美食",
+      "type": "咖啡",
+      "query": "宮越屋珈琲 THE CAFE 札幌 北海道 日本",
+      "why": "复古喫茶氛围，笔记推荐南瓜芝士拿铁及吐司，窗景朝藻岩山。",
+      "caution": "已按官网地址南19条西16丁目6-8保存为地址点。菜单和营业时间出发前复核。",
+      "sources": [
+        "6accd1f5000000001500dc9e"
+      ],
+      "mapStatus": "已保存至原北海道列表（按官网地址定位）",
+      "importable": true
+    },
+    {
+      "id": "p04",
+      "name": "ESPRESSO D WORKS / DRAセブン 札幌",
+      "city": "札幌",
+      "category": "美食",
+      "type": "早餐·咖啡",
+      "query": "ESPRESSO D WORKS DRAセブン 札幌 北海道 日本",
+      "why": "白天咖啡简餐、晚上酒吧。笔记提到可在商场开门前用早餐。",
+      "caution": "具体早餐时间未在已读评论中得到回答。",
+      "sources": [
+        "6accd1f5000000001500dc9e"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p05",
+      "name": "夜パフェ専門店 ななかま堂",
+      "city": "札幌",
+      "category": "美食",
+      "type": "夜间芭菲",
+      "query": "夜パフェ専門店 ななかま堂 札幌 北海道 日本",
+      "why": "适合作为札幌晚餐后甜点备选。",
+      "caution": "营业时间、候位与当季菜单需当天查询。",
+      "sources": [
+        "6accd1f5000000001500dc9e"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p06",
+      "name": "Cafe KANOM",
+      "city": "札幌",
+      "category": "美食",
+      "type": "冰淇淋·咖啡",
+      "query": "Cafe KANOM 札幌 北海道 日本",
+      "why": "电视塔旁休息点，笔记推荐冰淇淋和窗边街景。",
+      "caution": "原笔记写Cafe KANOM，Google Maps未找到札幌匹配；未加入原北海道列表。需读原图店招或向作者确认。",
+      "sources": [
+        "6accd1f5000000001500dc9e"
+      ],
+      "mapStatus": "待核对店名",
+      "importable": false
+    },
+    {
+      "id": "p07",
+      "name": "らっきょ 丸井今井店",
+      "city": "札幌",
+      "category": "美食",
+      "type": "汤咖喱",
+      "query": "らっきょ 丸井今井店 札幌 北海道 日本",
+      "why": "逛百货时顺路吃汤咖喱的备选。",
+      "caution": "与其他らっきょ分店区分。",
+      "sources": [
+        "6accd1f5000000001500dc9e"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p08",
+      "name": "Sam’s Curry",
+      "city": "札幌",
+      "category": "美食",
+      "type": "汤咖喱",
+      "query": "Sams Curry 北海道大学 札幌 日本",
+      "why": "自存帖置顶评论推荐，位置在北海道大学附近。",
+      "caution": "评论称只收现金；店铺身份与支付方式待核实。",
+      "sources": [
+        "6aac98490000000029017549"
+      ],
+      "mapStatus": "待核对分店",
+      "importable": false
+    },
+    {
+      "id": "p09",
+      "name": "175°DENO担担麺",
+      "city": "札幌",
+      "category": "美食",
+      "type": "担担面",
+      "query": "175 DENO 担担麺 札幌 北海道 日本",
+      "why": "群聊分享帖的评论推荐。",
+      "caution": "连锁品牌，评论未明确分店，暂不导入以免选错。",
+      "sources": [
+        "6ac49aa3000000001a02149f"
+      ],
+      "mapStatus": "待核对分店",
+      "importable": false
+    },
+    {
+      "id": "p10",
+      "name": "焼肉わじま",
+      "city": "旭川",
+      "category": "美食",
+      "type": "烤肉",
+      "query": "焼肉わじま 旭川 北海道 日本",
+      "why": "酒店笔记推荐和牛；美食笔记给出相反体验，认为咸且偏油。",
+      "caution": "保留口味分歧，不作为一致好评推荐。",
+      "sources": [
+        "6acc963c0000000015004539",
+        "69bbd9440000000021039b0c"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p11",
+      "name": "KINGBEAR 旭川",
+      "city": "旭川",
+      "category": "美食",
+      "type": "汤咖喱",
+      "query": "KINGBEAR 旭川 北海道 日本",
+      "why": "笔记认为炸鸡酥脆、份量较大。",
+      "caution": "原笔记未写KINGBEAR分店，地图有旭川緑町店和36店；未加入原北海道列表。原笔记认为汤底偏咸。",
+      "sources": [
+        "6acc963c0000000015004539"
+      ],
+      "mapStatus": "待核对分店",
+      "importable": false
+    },
+    {
+      "id": "p12",
+      "name": "山頭火 旭川空港店",
+      "city": "旭川",
+      "category": "美食",
+      "type": "拉面",
+      "query": "らーめん山頭火 旭川空港店 北海道 日本",
+      "why": "从旭川机场离开时的用餐备选，笔记建议避开市区排队。",
+      "caution": "仅适用于旭川机场出发，不是新千岁机场。",
+      "sources": [
+        "6aa8bb2e000000002802db10"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p13",
+      "name": "ホワイトコージ よつ葉 札幌",
+      "city": "札幌",
+      "category": "美食",
+      "type": "乳品甜点",
+      "query": "ホワイトコージ よつ葉 札幌駅 北海道 日本",
+      "why": "群聊评论推荐四叶牛奶旗下甜品店，称在札幌站地下商业街。",
+      "caution": "当前营业地点需核对，勿把“只有一家”当作仍有效事实。",
+      "sources": [
+        "6ac49aa3000000001a02149f"
+      ],
+      "mapStatus": "待核对营业地点",
+      "importable": false
+    },
+    {
+      "id": "p14",
+      "name": "札幌農学校 新千岁机场",
+      "city": "千岁",
+      "category": "美食",
+      "type": "乳品甜点",
+      "query": "札幌農学校 新千歳空港 北海道 日本",
+      "why": "机场笔记提到想吃冰淇淋；另一帖评论推荐布丁。",
+      "caution": "热门柜台可能排队，产品以现场为准。",
+      "sources": [
+        "6abe195a000000000200ff95",
+        "6ac49aa3000000001a02149f"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p15",
+      "name": "北菓楼 小樽本館",
+      "city": "小樽",
+      "category": "美食",
+      "type": "泡芙",
+      "query": "北菓楼 小樽本館 北海道 日本",
+      "why": "笔记正文描述六花亭附近的白色麻薯口感泡芙，评论补充店名为北菓楼。",
+      "caution": "作者称当时360日元、建议现吃；具体产品名称待看原图确认。",
+      "sources": [
+        "6accb5b8000000000200de0d"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p16",
+      "name": "北菓楼 札幌本館",
+      "city": "札幌",
+      "category": "美食",
+      "type": "甜点·建筑",
+      "query": "北菓楼 札幌本館 北海道 日本",
+      "why": "同篇评论补充图书馆改造的店面和楼上咖啡厅体验。",
+      "caution": "这是评论中的另一处分店线索，不能与小樽本馆混为同址。",
+      "sources": [
+        "6accb5b8000000000200de0d"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p17",
+      "name": "LeTAO 小樽",
+      "city": "小樽",
+      "category": "美食",
+      "type": "甜点",
+      "query": "小樽洋菓子舗ルタオ 本店 北海道 日本",
+      "why": "群聊评论推荐LeTAO，也提到结账排长队。",
+      "caution": "青提巧克力等为评论中的季节性线索，库存和保质期需现场确认。",
+      "sources": [
+        "6ac49aa3000000001a02149f"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p18",
+      "name": "幸运小丑汉堡 函馆",
+      "city": "函馆",
+      "category": "美食",
+      "type": "汉堡",
+      "query": "ラッキーピエロ 函館 北海道 日本",
+      "why": "群聊评论提到北海道本土汉堡品牌。",
+      "caution": "存在明确负面口味评价，且未能从已读内容锁定具体分店。",
+      "sources": [
+        "6ac49aa3000000001a02149f"
+      ],
+      "mapStatus": "待核对分店",
+      "importable": false
+    },
+    {
+      "id": "p19",
+      "name": "旭川站内布丁面包店",
+      "city": "旭川",
+      "category": "美食",
+      "type": "布丁·泡芙",
+      "query": "旭川駅 北海道 日本",
+      "why": "作者推荐不甜的布丁和泡芙，评论另推荐铜锣烧。",
+      "caution": "店名仅在第2张图；易售罄，三点前购买仅为作者经验。暂不导入店铺点位。",
+      "sources": [
+        "6acf946200000000180062fb"
+      ],
+      "mapStatus": "待读店招原图",
+      "importable": false
+    },
+    {
+      "id": "p20",
+      "name": "札幌站三明治售货机",
+      "city": "札幌",
+      "category": "美食",
+      "type": "三明治",
+      "query": "札幌駅 北海道 日本",
+      "why": "笔记称JR札幌站两边检票口前有售货机，约300日元；推荐水果、火腿芝士和双份蛋。",
+      "caution": "具体售货机品牌和现址待核实，先以札幌站为查找锚点。",
+      "sources": [
+        "6ac39b950000000019025ec9"
+      ],
+      "mapStatus": "站内线索",
+      "importable": false
+    },
+    {
+      "id": "p21",
+      "name": "Slowboat",
+      "city": "札幌",
+      "category": "体验",
+      "type": "爵士现场",
+      "query": "Slowboat Jazz 札幌 北海道 日本",
+      "why": "两篇笔记推荐。均提到约20时开始，座位少，建议查演出日并预约。",
+      "caution": "2025年笔记称入场3500日元、饮品另计；另一篇称有学生优惠。场次、价格、吸烟规则需复核。",
+      "sources": [
+        "68bd65cc000000001c00e3c9",
+        "679f81b6000000001701d4a1"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p22",
+      "name": "Wonderland Sapporo",
+      "city": "札幌",
+      "category": "体验",
+      "type": "雪地摩托",
+      "query": "Wonderland Sapporo 北海道札幌市西区福井478 日本",
+      "why": "笔记推荐90分钟双座雪地摩托，教练先教学再进入山林。",
+      "caution": "雪况决定开放日期；年龄、人数、装备和预约截止时间须以运营方当前规则为准。",
+      "sources": [
+        "6ac8d341000000000a0230c2"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p23",
+      "name": "旭川站北口广场",
+      "city": "旭川",
+      "category": "体验",
+      "type": "冬季溜冰",
+      "query": "旭川駅 北口広場 北海道 日本",
+      "why": "往年冬季有免费滑冰及租鞋，北口出站可见。",
+      "caution": "往年帖工作日13–19时、周末10–19时；暴雪可能停开，当季时间待查。",
+      "sources": [
+        "697a182b000000000d00a1b6"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p24",
+      "name": "神居滑雪场",
+      "city": "旭川",
+      "category": "体验",
+      "type": "滑雪",
+      "query": "カムイスキーリンクス 北海道 日本",
+      "why": "旭川游玩笔记推荐滑雪体验。",
+      "caution": "雪道难度、接驳、装备和开放情况需按自身水平与当天情况确认。",
+      "sources": [
+        "6aa8bb2e000000002802db10"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p25",
+      "name": "Santa Present Park",
+      "city": "旭川",
+      "category": "体验",
+      "type": "滑雪",
+      "query": "サンタプレゼントパーク 旭川 北海道 日本",
+      "why": "酒店评论提到适合新手的市内滑雪场备选。",
+      "caution": "这是单条评论经验，实际课程与雪道开放待核实。",
+      "sources": [
+        "693c91a9000000001e0326e8"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p26",
+      "name": "美瑛町观光协会",
+      "city": "美瑛",
+      "category": "体验",
+      "type": "雪地徒步咨询",
+      "query": "四季の情報館 美瑛町本町1丁目2番14号 日本",
+      "why": "旭川笔记作者通过美瑛观光协会预约蓝河雪地徒步，美瑛站接送。",
+      "caution": "已由美瑛町观光协会官网核对咨询处为四季の情報館，本町1丁目2番14号。具体徒步产品与集合点以预约确认信为准。",
+      "sources": [
+        "6aa8bb2e000000002802db10"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true,
+      "verificationUrl": "https://www.biei-hokkaido.jp/ja/facility/tourist-information-center"
+    },
+    {
+      "id": "p27",
+      "name": "厨翠山",
+      "city": "定山溪",
+      "category": "温泉",
+      "type": "住宿私汤",
+      "query": "厨翠山 定山渓 北海道 日本",
+      "why": "温泉笔记推荐晨间私汤，作者在评论称住70平方米房型。",
+      "caution": "房型及私汤配置以订房页面为准，不能推定所有房间都有。",
+      "sources": [
+        "67971248000000002802af78"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p28",
+      "name": "古丹温泉",
+      "city": "道东",
+      "category": "温泉",
+      "type": "露天野汤",
+      "query": "コタン温泉 屈斜路湖 北海道 日本",
+      "why": "评论推荐屈斜路湖边露天汤与天鹅景观，有人使用弟子屈巴士到访。",
+      "caution": "野汤设施简朴；换衣、穿着、开放和交通需另查，拍摄需尊重他人隐私。",
+      "sources": [
+        "6ab09ee100000000120376db"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p29",
+      "name": "吹上温泉 白银庄",
+      "city": "富良野",
+      "category": "温泉",
+      "type": "日归温泉",
+      "query": "吹上温泉保養センター 白銀荘 北海道 日本",
+      "why": "评论认为相较旁边野汤环境更完善，适合作为有设施的露天温泉备选。",
+      "caution": "本次添加时Google Maps标记“临时关闭”；请先向运营方确认恢复营业，再安排收费、开放与冬季交通。",
+      "sources": [
+        "6ab09ee100000000120376db"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p30",
+      "name": "吹上露天之汤",
+      "city": "富良野",
+      "category": "温泉",
+      "type": "露天野汤",
+      "query": "吹上露天の湯 北海道 日本",
+      "why": "同一评论记录了大暴雪中泡汤经历。",
+      "caution": "评论称未看到更衣处、人较多；与白银庄为不同设施。",
+      "sources": [
+        "6ab09ee100000000120376db"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p31",
+      "name": "登别 泷乃家",
+      "city": "登别",
+      "category": "温泉",
+      "type": "温泉酒店",
+      "query": "登別温泉郷 滝乃家 北海道 日本",
+      "why": "露天温泉帖评论提名。",
+      "caution": "已读评论缺少价格和房型信息，作为住宿候选保留。",
+      "sources": [
+        "6ab09ee100000000120376db"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p32",
+      "name": "AMANEK 旭川酒店",
+      "city": "旭川",
+      "category": "住宿",
+      "type": "站前酒店",
+      "query": "ホテルアマネク旭川 北海道 日本",
+      "why": "两篇笔记描述站前、17楼浴场和洗衣设施，附近有超市和餐饮。",
+      "caution": "评论对早餐性价比、房间暖气有不同体验；房间拖鞋、浴巾及洗衣硬币规则待现场确认。",
+      "sources": [
+        "69bbd9440000000021039b0c",
+        "693c91a9000000001e0326e8"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p33",
+      "name": "钏路微笑酒店",
+      "city": "钏路",
+      "category": "住宿",
+      "type": "观鹤出发点",
+      "query": "スマイルホテル釧路 北海道 日本",
+      "why": "观鹤笔记作者称通过酒店预约车辆。",
+      "caution": "评论中的11000日元为作者当时车费，不构成当前报价。",
+      "sources": [
+        "69835265000000001a02f602"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p34",
+      "name": "音羽桥",
+      "city": "道东",
+      "category": "景点",
+      "type": "丹顶鹤·摄影",
+      "query": "音羽橋 鶴居村 北海道 日本",
+      "why": "观鹤笔记清晨到桥上拍河雾与远处丹顶鹤。",
+      "caution": "鹤离桥远，作者用300mm半画幅；清晨寒冷，不进入禁止行人的区域。",
+      "sources": [
+        "69835265000000001a02f602"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p35",
+      "name": "鹤见台",
+      "city": "道东",
+      "category": "景点",
+      "type": "丹顶鹤",
+      "query": "鶴見台 北海道 日本",
+      "why": "观鹤笔记在音羽桥后到访，记录鹤群活动。",
+      "caution": "数量和行为取决于当天，不能保证见到求偶舞。",
+      "sources": [
+        "69835265000000001a02f602"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p36",
+      "name": "白须瀑布",
+      "city": "美瑛",
+      "category": "景点",
+      "type": "雪景",
+      "query": "白ひげの滝 美瑛 北海道 日本",
+      "why": "美食笔记推荐桥外房车售卖的牛奶冰淇淋，可与景观顺路。",
+      "caution": "摊车是否营业、冬季路况待核实。",
+      "sources": [
+        "6acc963c0000000015004539"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p37",
+      "name": "白金青池",
+      "city": "美瑛",
+      "category": "景点",
+      "type": "雪景",
+      "query": "白金青い池 美瑛 北海道 日本",
+      "why": "旭川美食帖提到此处冰淇淋，评价一般。",
+      "caution": "笔记不能证明冬季池面颜色或照明时间，按当季信息安排。",
+      "sources": [
+        "6acc963c0000000015004539"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p38",
+      "name": "旭川市旭山动物园",
+      "city": "旭川",
+      "category": "景点",
+      "type": "动物园",
+      "query": "旭川市旭山動物園 北海道 日本",
+      "why": "交通帖与酒店评论提到动物园和企鹅散步。",
+      "caution": "企鹅散步依积雪、动物状态和园方安排，不能保证。",
+      "sources": [
+        "693c91a9000000001e0326e8"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p39",
+      "name": "见本林",
+      "city": "旭川",
+      "category": "景点",
+      "type": "散步",
+      "query": "見本林 旭川 北海道 日本",
+      "why": "酒店评论推荐市内一日散步候选。",
+      "caution": "为单条评论线索，冬季开放与路线待查。",
+      "sources": [
+        "693c91a9000000001e0326e8"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p40",
+      "name": "上川神社",
+      "city": "旭川",
+      "category": "景点",
+      "type": "神社",
+      "query": "上川神社 旭川 北海道 日本",
+      "why": "酒店评论推荐与市区散步一起安排。",
+      "caution": "冬季步行条件需当天确认。",
+      "sources": [
+        "693c91a9000000001e0326e8"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p41",
+      "name": "北海道神宫",
+      "city": "札幌",
+      "category": "景点",
+      "type": "神社",
+      "query": "北海道神宮 札幌 北海道 日本",
+      "why": "群聊交通帖将神宫和圆山公园列在东西线游览区域，另一帖评论也推荐。",
+      "caution": "按当天路况安排步行，不从图片推定积雪情况。",
+      "sources": [
+        "69fb624f00000000220285ca"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p42",
+      "name": "圆山公园",
+      "city": "札幌",
+      "category": "景点",
+      "type": "散步",
+      "query": "円山公園 札幌 北海道 日本",
+      "why": "可与北海道神宫作为同一区域候选。",
+      "caution": "这是根据交通帖地点关系整理的组合，并非已验证的完整行程。",
+      "sources": [
+        "69fb624f00000000220285ca"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p43",
+      "name": "北海道大学",
+      "city": "札幌",
+      "category": "景点",
+      "type": "校园散步",
+      "query": "北海道大学 札幌 日本",
+      "why": "群聊交通帖中的市内地点，也可与北侧汤咖喱用餐顺路考虑。",
+      "caution": "校园区域较大，出行前选好入口与步行范围。",
+      "sources": [
+        "69fb624f00000000220285ca"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p44",
+      "name": "大通公园",
+      "city": "札幌",
+      "category": "景点",
+      "type": "市内散步",
+      "query": "大通公園 札幌 北海道 日本",
+      "why": "市内步行与交通换乘锚点。",
+      "caution": "小樽巴士的具体上车点不是整个公园，需查实际站牌。",
+      "sources": [
+        "6ac1a9e6000000001b023245"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p45",
+      "name": "二条市场",
+      "city": "札幌",
+      "category": "美食",
+      "type": "市场",
+      "query": "二条市場 札幌 北海道 日本",
+      "why": "群聊交通帖列入东丰线周边游览地点。",
+      "caution": "已读内容未提供具体摊位推荐，避免将市场整体视作美食背书。",
+      "sources": [
+        "69fb624f00000000220285ca"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p46",
+      "name": "UNIQLO 东急百货札幌店",
+      "city": "札幌",
+      "category": "购物",
+      "type": "限定刺绣",
+      "query": "ユニクロ 東急百貨店さっぽろ店 北海道 日本",
+      "why": "笔记记录当地限定刺绣，可定制部分基础款。",
+      "caution": "作者16:30下单、次日10时后取；衣服免税与刺绣收费规则需现场复核。",
+      "sources": [
+        "6ad83fd4000000002b0035de"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p47",
+      "name": "狸小路商店街",
+      "city": "札幌",
+      "category": "购物",
+      "type": "药妆·逛街",
+      "query": "狸小路商店街 札幌 北海道 日本",
+      "why": "群聊交通帖提到药妆购物较集中。",
+      "caution": "不同商户价格、优惠和营业时间各异。",
+      "sources": [
+        "69fb624f00000000220285ca"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    },
+    {
+      "id": "p48",
+      "name": "新千岁机场",
+      "city": "千岁",
+      "category": "交通",
+      "type": "机场·购物",
+      "query": "新千歳空港 北海道 日本",
+      "why": "两篇群聊分享及评论推荐国内线美食、特产、观景台，并提到影院和温泉。",
+      "caution": "出境、托运和交通时间优先；暴雪可能同时影响航班及地面交通。",
+      "sources": [
+        "6abe195a000000000200ff95",
+        "6ac49aa3000000001a02149f"
+      ],
+      "mapStatus": "已保存至原北海道列表",
+      "importable": true
+    }
+  ],
+  "tips": [
+    {
+      "title": "留一天弹性给天气",
+      "category": "交通",
+      "text": "群聊中既有JR事故后打车仍误机的经历，也有暴雪滞留机场的记录。长途移动和国际航班之间预留充足余量；发现异常先查运营方公告和航司值机要求。",
+      "sources": [
+        "6ac713c10000000019038800",
+        "6abe195a000000000200ff95"
+      ]
+    },
+    {
+      "title": "小樽巴士的240日元被纠正",
+      "category": "交通",
+      "text": "原帖正文写240日元，作者在评论确认最后支付730日元，多位评论也指出票价错误。730仍是当时经验，当前票价与支付步骤另查运营方。",
+      "sources": [
+        "6ac1a9e6000000001b023245"
+      ]
+    },
+    {
+      "title": "周游券先算路段，再决定",
+      "category": "交通",
+      "text": "多篇评论建议：单向由函馆到札幌等路线未必适合买全区券。按确定的路线和乘车日期，比较单程票总价及官方周游券范围；不要照搬“多数情况不值”或“坐JR必买”的结论。",
+      "sources": [
+        "6ab13c0e0000000033027ee8",
+        "6ab7665d0000000002011ac6",
+        "69fb624f00000000220285ca"
+      ]
+    },
+    {
+      "title": "IC卡、地铁券、JR券分开看",
+      "category": "交通",
+      "text": "交通帖区分了机场列车座席、札幌地铁票和JR周游券。特急、跨城市及IC卡可用区间需要逐段确认；旧帖价格及柜台时间不作为现行规则。",
+      "sources": [
+        "69fb624f00000000220285ca"
+      ]
+    },
+    {
+      "title": "把户外放在白天",
+      "category": "行程",
+      "text": "自存帖评论提醒冬季天黑早、拖箱走500米也可能很累。白天安排户外，晚间安排咖啡、爵士或甜点，酒店优先考虑实际出入口距离。具体日落时间按旅行日期查看。",
+      "sources": [
+        "6ae18bc5000000002b00233a"
+      ]
+    },
+    {
+      "title": "三种寄存方案",
+      "category": "行程",
+      "text": "优先确认酒店前台能否寄存；其次查车站柜的尺寸与空位；柜满或路线不便时查ecbo cloak可预约地点。不是所有便利店都能直接寄存。",
+      "sources": [
+        "6ac19a050000000018012826"
+      ]
+    },
+    {
+      "title": "保暖、防水、防滑分开准备",
+      "category": "装备",
+      "text": "装备帖对鞋款有分歧，但普遍关注结冰路面、防水和室内外温差。准备可脱卸的分层衣物、手套、帽子和适合自己的防滑方案；冰爪携带规定向航司确认。",
+      "sources": [
+        "6ad10542000000001403b177"
+      ]
+    },
+    {
+      "title": "支付优惠不能计入必得预算",
+      "category": "购物",
+      "text": "帖子晒出的大额减免只是个别经历。评论提到随机发放、指定商户及有人只减几毛。付款前看自己账户实际优惠和适用条件，同时准备其他支付方式。",
+      "sources": [
+        "6ad4d4650000000025034159"
+      ]
+    },
+    {
+      "title": "往年活动单独存档",
+      "category": "时效",
+      "text": "收藏夹含2025年ANA活动及25–26冬季花火帖。保留为关注方向，不能将其日期套用到下一雪季；活动时间、税项及费用须查官方。",
+      "sources": [
+        "68f0ca7c0000000004006511",
+        "6912b8490000000004002939"
+      ]
+    },
+    {
+      "title": "香港离境税按个人行程核实",
+      "category": "时效",
+      "text": "群聊也提出机票可能已免征税项。先核对行程单是否实际缴纳、入离境条件和当前官方规则；不把帖子“立赚200”当作必可退金额。",
+      "sources": [
+        "6a21625c0000000038021438"
+      ]
+    },
+    {
+      "title": "雪夜拍摄的小实验",
+      "category": "拍照",
+      "text": "阿勒泰拍摄帖可借鉴慢动作与人物后方补光思路；评论提醒低温可能关机。北海道穿搭照片是视觉参考，不能据此判断保暖需求。",
+      "sources": [
+        "6ae09c2100000000280288bf",
+        "6abf7eb50000000014031223"
+      ]
+    },
+    {
+      "title": "收集自己的旅行凭证",
+      "category": "拍照",
+      "text": "文艺旅行帖建议收集门票、名片、交通票与印章做手账，也可逛书店、Bookoff或爵士现场。只取现场明确免费提供的海报资料。",
+      "sources": [
+        "6ae1fa0c0000000034026d91"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "67971248000000002802af78",
+      "title": "千里迢迢来北海道就是为了这一瞬间",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/67971248000000002802af78?xsec_token=ABxh28D6mr_u2j9kF7N9QjWyLcg-GRV3PoiwE4NJ9MBME=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 4,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "679f81b6000000001701d4a1",
+      "title": "关于在札幌最棒的记忆是 Jazz club",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/679f81b6000000001701d4a1?xsec_token=AB3xqL2JXS01vhPkzY2pYpDKQJrxbR7KbkXPoMoH-eDfY=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 10,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "68bd65cc000000001c00e3c9",
+      "title": "📍北海道｜全札幌最值得去的地方—Slowboat⛵️",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/68bd65cc000000001c00e3c9?xsec_token=ABjRrpdkpEDEzzOZdXopq1noxyrhU36q0qquDpt4vOqO8=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 54,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "68f0ca7c0000000004006511",
+      "title": "ANA双十一预热，25/10/20周一",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/68f0ca7c0000000004006511?xsec_token=AB15JZwfkK9_kwe81bY9PO8IeHdzDyeaC_qa89THAhO6U=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 66,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6912b8490000000004002939",
+      "title": "25-26冬季北海道主要花火大会",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6912b8490000000004002939?xsec_token=AB6dprqIX5Y_XXE8mKKtF0iBKNieFy6SjSBajvhPDEJd4=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 154,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "693c91a9000000001e0326e8",
+      "title": "12.13北海道旭川住的宝藏酒店！❄️",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/693c91a9000000001e0326e8?xsec_token=ABHKVE-QGVnE9ELTvZwTyAgQGW1EO11YLC4-c411xmYrY=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 25,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "69639760000000000e03fa56",
+      "title": "旅行视频教程1.0 ——怎么拍❓",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/69639760000000000e03fa56?xsec_token=ABAYw3UqcO6STmOn0-WYK7h77-KZq2Jia6poIk0uNlUpc=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 77,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "697a182b000000000d00a1b6",
+      "title": "旭川车站前雪中溜冰人生体验+1（免费）",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/697a182b000000000d00a1b6?xsec_token=ABFL3H3rlzMtjr-48t2hvA-6fzUBfiWVFEKsm3o8I3oIg=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 17,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "69835265000000001a02f602",
+      "title": "北海道钏路观鹤",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/69835265000000001a02f602?xsec_token=ABECJgR1woInjIjZEbWselqlzMy78gDeBVc7BUs4BzLio=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 48,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "69bbd9440000000021039b0c",
+      "title": "北海道旭川Amanek酒店体验分享",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/69bbd9440000000021039b0c?xsec_token=ABf7Wx5nA3a_NyGOcdSXZT_CfUvARNGITJ0nAwU-sxcEg=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 15,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "69fb624f00000000220285ca",
+      "title": "札幌交通小记",
+      "url": "https://www.xiaohongshu.com/explore/69fb624f00000000220285ca?app_platform=ios&app_version=9.48&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBfN-XGVv3gRnPyw5tVK17Y85wiRML9lutvxpFQBpnp_E%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 25,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6a21625c0000000038021438",
+      "title": "香港搭飞机详细退税攻略，立赚200元！！！",
+      "url": "https://www.xiaohongshu.com/explore/6a21625c0000000038021438?app_platform=ios&app_version=9.49.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB_cH07OCJyhoE1EdABRqkVmzQCxnZZvz3oeFw4UEsO5s%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 691,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6a3ded7f000000000f016826",
+      "title": "下周去日本",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6a3ded7f000000000f016826?xsec_token=ABbci-mtWqlesiUkd7Zo-UmIKD7mmiaLTRKX581rcMec8=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 247,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6aa8bb2e000000002802db10",
+      "title": "真实游玩北海道❄️旭川篇",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6aa8bb2e000000002802db10?xsec_token=ABBwbJf5P9f3RegwrubkuhWWvyibhdFnfVS1bBKjxwT3c=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 29,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6aac98490000000029017549",
+      "title": "开个北海道自存贴",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6aac98490000000029017549?xsec_token=ABpvbEPY1FrIrvCoVCXYv01cfcw12ZKKEIoJ9tJ-duMPA=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 136,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ab09ee100000000120376db",
+      "title": "一个露天温泉",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ab09ee100000000120376db?xsec_token=ABrYoHm_rfjaKYMEfbOrYdS-fMsSHoje--KdDccCby6e0=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 259,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ab13c0e0000000033027ee8",
+      "title": "jrpass｜北海道-区域周游券保姆级攻略",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ab13c0e0000000033027ee8?xsec_token=AB8ptAnQVyEm1OCTBo5L7e7xuVQg3OvxVJSMLMnSCIs0A=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 141,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ab7665d0000000002011ac6",
+      "title": "jrpass｜最全北海道交通保姆级攻略",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ab7665d0000000002011ac6?xsec_token=AB7xOzaT3ooGxFCku8xcYwAuW3WeayNewIFYATmQ7d1ss=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 122,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6abe195a000000000200ff95",
+      "title": "真实旅游无滤镜 新千岁机场",
+      "url": "https://www.xiaohongshu.com/explore/6abe195a000000000200ff95?xsec_token=CBNa71Z2FBA0jZvPC-5a4zWTYBzOdE9sZ5mrFYmmyfObk=&xsec_source=app_share",
+      "kind": "群聊分享",
+      "comments": 237,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6abf7eb50000000014031223",
+      "title": "自存一下北海道必拍照片（超全版）",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6abf7eb50000000014031223?xsec_token=AB538edHhnvk7PZ9VBxRxKkUSxdhf1m0kkbkolOdQamCU=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 20,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6abfd0dc000000001c02c7a9",
+      "title": "突然兴致大发想去 但好像已经很昂贵了",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6abfd0dc000000001c02c7a9?xsec_token=AB538edHhnvk7PZ9VBxRxKkX_GUbQG_b_zBwizsFHKXio=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 297,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac19a050000000018012826",
+      "title": "日本🇯🇵便利店 | 行李寄存🧳攻略",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ac19a050000000018012826?xsec_token=ABmYv2wexrqm9zeCPxPbwZsayi5oSrdzzwobda_8x-WvM=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 221,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac1a9e6000000001b023245",
+      "title": "大通公园就有高速巴士到小樽，最后有时刻表",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ac1a9e6000000001b023245?xsec_token=ABmYv2wexrqm9zeCPxPbwZsRNJKeR4kzioIiTytosyfpY=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 31,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac39b950000000019025ec9",
+      "title": "這可以說是札幌必買的三明治！",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ac39b950000000019025ec9?xsec_token=ABfoqmvJK_bEybtVN9JPKRfdMhpBUklhXlBDvNV2pjP-w=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 12,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac49aa3000000001a02149f",
+      "title": "两个哑巴勇闯北海道",
+      "url": "https://www.xiaohongshu.com/explore/6ac49aa3000000001a02149f?xsec_token=CBU7QTUHsobcsG2HGro9hEAGvEKyXsMHxyGlIZux1Cu5E=&xsec_source=app_share",
+      "kind": "群聊分享",
+      "comments": 429,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac52ffe000000000a023713",
+      "title": "国内有没有做得比较好的散步解谜？",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ac52ffe000000000a023713?xsec_token=ABRWVn_39jKdymKsf-UAHdgtPn_LV1jkBYsodXHpAVOcs=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 598,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac5a3640000000014000609",
+      "title": "坚决拥护北海道汤咖喱🏅",
+      "url": "https://www.xiaohongshu.com/explore/6ac5a3640000000014000609?app_platform=ios&app_version=9.49.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBQ06cBGkf-sVM1QsVrDzsWY_ISNCWQ5HYPQqVvFA5NUs%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 46,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac713c10000000019038800",
+      "title": "今天真是昂贵又一无所获的一天",
+      "url": "https://www.xiaohongshu.com/explore/6ac713c10000000019038800?app_platform=android&ignoreEngage=true&app_version=9.44.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBV0web9cZDNGM1LTTZPXa_LrHD6imgS2n5ezO6dbFxOk%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 75,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ac8d341000000000a0230c2",
+      "title": "❄️在北海道札幌花得最值的一笔💰🏍️",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ac8d341000000000a0230c2?xsec_token=ABl3AVvpWXEPjEx0OTEbMqcgyxLwBfPR2UC_XMpizwwQ4=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 155,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6acc963c0000000015004539",
+      "title": "旭川美食篇-极与极",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6acc963c0000000015004539?xsec_token=ABGWzgni2zJsDOpe8DDY5MK5RWeieClVTVwlWajj-ZYKU=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 10,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6accb5b8000000000200de0d",
+      "title": "北海道没踩雷的甜点 想天天吃",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6accb5b8000000000200de0d?xsec_token=ABGWzgni2zJsDOpe8DDY5MK2cqyJY9IkWTRaxnfniSbrA=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 11,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6accd1f5000000001500dc9e",
+      "title": "札幌｜这几家小店，我愿意再飞一次",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6accd1f5000000001500dc9e?xsec_token=ABGWzgni2zJsDOpe8DDY5MK14h-YiejCkNbaLvTrUrzJo=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 16,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ace3e8c000000001b01fcd6",
+      "title": "东京购物不买大众奢牌的选品思路",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ace3e8c000000001b01fcd6?xsec_token=ABrYgcvDbMG_LvfVGlgFy4aAj7gmuCbeq3dJP1Y-LNvnI=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 145,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ad10542000000001403b177",
+      "title": "一月初准备去北海道，本广东人还没看过雪，想问问双十一有什么好物可以提前预购，目前准备买一个26寸的大箱子，其他羽绒服手套帽子之类的有优惠好用的推荐吗uu们 #北海道[话题]# #南方人去北方旅游[话题]# #北海道旅行[话题]#",
+      "url": "https://www.xiaohongshu.com/explore/6ad10542000000001403b177?app_platform=ios&app_version=9.49.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBEvIhW3AdET5JhTZU0LdSWFBdmRUjFAaO7b0rbA5Mm0g%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 133,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ad4d4650000000025034159",
+      "title": "支付宝和微信在日本的商战恐怖如斯",
+      "url": "https://www.xiaohongshu.com/explore/6ad4d4650000000025034159?app_platform=android&ignoreEngage=true&app_version=9.50.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBGHC5KOCRYHw1eghbVgwpeIfoOn_TNlnmtlUPioGh-LQ%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 925,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ad75374000000000d020c31",
+      "title": "日本超商必吃‼️生巧克力冰淇淋🍫",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ad75374000000000d020c31?xsec_token=ABW8iMyZX2eqRTinLLLXRclCoAAHPho7YRxZsLFF7JxPg=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 36,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ad83fd4000000002b0035de",
+      "title": "北海道优衣库限定刺绣，都别错过了！🐻‍❄️🪻",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ad83fd4000000002b0035de?xsec_token=AB3uKMv_tQULVFIYgwMNBj8fU9Mw_pKwfymBb8QslgeI4=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 42,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ae09c2100000000280288bf",
+      "title": "用大疆pocket慢动作拍阿勒泰氛围感封神！",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ae09c2100000000280288bf?xsec_token=ABrQqIwX8w1Bhe2FCXmmDoEFRhQIRdho6YI5QQUJXxKPg=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 617,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ae18bc5000000002b00233a",
+      "title": "北海道攻略保存(自留)",
+      "url": "https://www.xiaohongshu.com/explore/6ae18bc5000000002b00233a?app_platform=ios&app_version=9.51.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBTrMHcIW8i2wP03-4WC_rxtKtQ5h8VKeEJDZt9X9RMP4%3D&author_share=1&sourceId=message&feedType=single",
+      "kind": "群聊分享",
+      "comments": 89,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ae1d7ba000000002a03a80f",
+      "title": "北海道旅游自存bot",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ae1d7ba000000002a03a80f?xsec_token=AB9-FfP0S1OUcxFs8Bke2lxNSeFy7ueVOzk3ERTUlSJ0o=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 13,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6ae1fa0c0000000034026d91",
+      "title": "去日本屡试不爽的文艺b幸福爆棚tips",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6ae1fa0c0000000034026d91?xsec_token=AB9-FfP0S1OUcxFs8Bke2lxCjCN62m-M_G6sL-XQiwwhI=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 41,
+      "status": "正文及已加载评论已读；完整评论与图片待补读"
+    },
+    {
+      "id": "6acf946200000000180062fb",
+      "title": "北海道最好吃的布丁在旭川站",
+      "url": "https://www.xiaohongshu.com/board/6ac3cf04000000000e01d5fb/6acf946200000000180062fb?xsec_token=ABHKndwd59e37X0SckV73sQdpaAeyxb85xkVTioK8zHgw=&xsec_source=",
+      "kind": "北海道特辑",
+      "comments": 21,
+      "status": "正文及全部展开回复已读；店名原图待确认"
+    }
+  ],
+  "coverage": {
+    "opened": 42,
+    "collectionVisible": 33,
+    "collectionReported": 35,
+    "complete": false,
+    "limitation": "仅保存已加载评论；多数楼中楼和图片尚未完整读取。收藏夹显示35篇，当前仅枚举到33篇，差额原因未确认。"
+  },
+  "map": {
+    "url": "https://www.google.com/maps/@42.9282158,141.3528503,11z/data=!4m7!1m3!11m2!2sM64zfqVuUWVwIvZWCPxnXQ!3e3!11m2!2sM64zfqVuUWVwIvZWCPxnXQ!3e3",
+    "status": "原Google Maps「北海道」列表现有40处，本次新增38处，保留原有新千岁机场及Picante本店。列表说明已写入七类索引，部分地点附有攻略备注。Cafe KANOM店名和KINGBEAR分店未确认，暂未加入；另有原先6条待核实线索。白银庄目前在Maps中标记临时关闭，出行前须复核。",
+    "saved": 40,
+    "added": 38,
+    "categories": {
+      "美食": 13,
+      "景点": 11,
+      "体验": 6,
+      "温泉": 5,
+      "住宿": 2,
+      "购物": 2,
+      "交通": 1
+    },
+    "secondaryUrl": "https://www.google.com/maps/d/edit?mid=15iFS5P5sfaMR--opRflyXgLwZ3BhnjM",
+    "secondaryStatus": "旧版My Maps导入42条，包含2条本次未能确认的线索；以原北海道列表和本手册的待核实标记为准。"
+  }
+}
